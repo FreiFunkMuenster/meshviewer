@@ -14,6 +14,7 @@ Meshviewer is a frontend for
 # Communities providing an installation of this fork:
 
 - [Freifunk Bielefeld](http://freifunk-bielefeld.de/)
+- [Freifunk Ulm](http://freifunk-ulm.de/)
 
 # Configuration
 
